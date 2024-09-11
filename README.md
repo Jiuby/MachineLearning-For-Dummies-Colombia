@@ -49,7 +49,7 @@ Aquí tienes algunas aplicaciones de ML que puedes reconocer:
 - **Reconocimiento de Imágenes**: Cómo tu teléfono identifica caras en tus fotos. 📸
 
 
-![Imagen](https://www.researchgate.net/profile/Happiness-Dike-2/publication/330472376/figure/fig5/AS:1050124423798789@1627380581982/Machine-learning-algorithms-and-common-applications.jpg)
+![Imagen](https://i.pinimg.com/originals/ed/87/d5/ed87d561f9e1fd0b4de1935dafbdf41a.png)
 
 ---
 
