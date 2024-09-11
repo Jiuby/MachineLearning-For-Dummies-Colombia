@@ -1,10 +1,10 @@
 # Introducción al Machine Learning 🤓
 
-¡Bienvenido al fascinante mundo del Machine Learning (ML)! 🎉 Aquí te guiare a través de los conceptos básicos, principios fundamentales y algunas aplicaciones emocionantes de ML. Aunque el machine learning es muy complejo quiero explicartelo de una forma que comprendas y no te enredes 😉, ¡empezaremos desde lo más básico!
+¡Bienvenido al fascinante mundo del Machine Learning (ML)! 🎉 Aquí te guiaré a través de los conceptos básicos, principios fundamentales y algunas aplicaciones emocionantes de ML. Aunque el machine learning puede ser complejo, quiero explicártelo de una forma que comprendas y no te enredes 😉, ¡empezaremos desde lo más básico!
 
 ## ¿Qué es el Machine Learning? 🤔
 
-Machine Learning (ML) es una rama de la inteligencia artificial (IA) la cual permite a las máquinas aprender de datos y mejorar con el tiempo sin ser programadas explícitamente. En lugar de seguir instrucciones , los algoritmos de ML identifican patrones y hacen predicciones o decisiones basadas en datos.
+Machine Learning (ML) es una rama de la inteligencia artificial (IA) que permite a las máquinas aprender de datos y mejorar con el tiempo sin ser programadas explícitamente. En lugar de seguir instrucciones detalladas, los algoritmos de ML identifican patrones y hacen predicciones o decisiones basadas en datos.
 
 ### ¿Por qué es importante? 🌍
 
@@ -25,6 +25,22 @@ Antes de sumergirnos en los modelos, vamos a desglosar algunos conceptos clave:
   - **Aprendizaje No Supervisado**: Se trabaja con datos no etiquetados para encontrar patrones o estructuras subyacentes.
   - **Aprendizaje por Refuerzo**: El modelo aprende a través de recompensas y penalizaciones, similar a cómo un videojuego enseña a jugar. 🎮
 
+## 3. Modelos de Machine Learning 🛠️
+
+Los modelos de machine learning son las herramientas que utilizamos para resolver problemas específicos de predicción o clasificación. A continuación, te presento algunos de los modelos más comunes y en qué tipo de aprendizaje suelen aplicarse:
+
+- **Regresión Lineal**: Un modelo simple y efectivo que se utiliza en el aprendizaje supervisado para predecir valores continuos, como el precio de una casa o el salario de una persona. Ideal para problemas de regresión. 📉
+  
+- **Regresión Logística**: Aunque su nombre sugiere que es una técnica de regresión, este modelo es muy útil para problemas de clasificación binaria (por ejemplo, sí/no, verdadero/falso). 💡
+
+- **Árboles de Decisión**: Se utilizan tanto en clasificación como en regresión. Son modelos que aprenden a partir de preguntas secuenciales sobre los datos. 🌳
+
+- **K-Means**: Un algoritmo de aprendizaje no supervisado que agrupa datos similares en "clusters". Ideal para descubrir patrones en grandes conjuntos de datos sin etiquetas. 🔍
+
+- **Redes Neuronales**: Inspiradas en el cerebro humano, las redes neuronales se utilizan para resolver problemas complejos. Son esenciales en tareas como reconocimiento de imágenes y procesamiento de lenguaje natural. 🧠
+
+¡Con estos modelos puedes empezar a experimentar y resolver problemas del mundo real!
+
 ## Aplicaciones Comunes de Machine Learning 🌟
 
 Aquí tienes algunas aplicaciones de ML que puedes reconocer:
@@ -32,6 +48,8 @@ Aquí tienes algunas aplicaciones de ML que puedes reconocer:
 - **Detección de Fraude**: Cómo las instituciones financieras identifican actividades sospechosas. 💳
 - **Reconocimiento de Imágenes**: Cómo tu teléfono identifica caras en tus fotos. 📸
 
-¡Y esto es solo el comienzo! En las próximas secciones, exploraremos diferentes modelos de machine learning y te proporcionaremos ejemplos prácticos para que puedas empezar a experimentar por ti mismo.
+¡Y esto es solo el comienzo! En las próximas secciones, exploraremos estos y otros modelos de machine learning con ejemplos prácticos para que puedas comenzar a experimentar por ti mismo.
 
-¡Prepárate para un emocionante viaje en el mundo del Machine Learning
+---
+
+¡Gracias por unirte a nosotros en esta emocionante aventura! 🚀
