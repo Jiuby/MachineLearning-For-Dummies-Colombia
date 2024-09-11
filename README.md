@@ -48,8 +48,8 @@ Aquí tienes algunas aplicaciones de ML que puedes reconocer:
 - **Detección de Fraude**: Cómo las instituciones financieras identifican actividades sospechosas. 💳
 - **Reconocimiento de Imágenes**: Cómo tu teléfono identifica caras en tus fotos. 📸
 
-¡Y esto es solo el comienzo! En las próximas secciones, exploraremos estos y otros modelos de machine learning con ejemplos prácticos para que puedas comenzar a experimentar por ti mismo.
+
+![Imagen](https://www.researchgate.net/profile/Happiness-Dike-2/publication/330472376/figure/fig5/AS:1050124423798789@1627380581982/Machine-learning-algorithms-and-common-applications.jpg)
 
 ---
 
-¡Gracias por unirte a nosotros en esta emocionante aventura! 🚀
