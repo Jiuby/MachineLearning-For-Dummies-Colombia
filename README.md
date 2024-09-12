@@ -1,4 +1,6 @@
-# Este repositorio esta dividio en 2 Practica💻 y Teoria📖 ( Los reconoceras con los nombres de los commits 🤓)
+# Este repositorio esta dividio en 2 
+ Practica💻 y Teoria📖 
+( Los reconoceras con los nombres de los commits 🤓)
 
 # Introducción al Machine Learning 🤓
 
