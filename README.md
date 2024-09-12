@@ -1,3 +1,5 @@
+# Este repositorio esta dividio en 2 Practica💻 y Teoria📖 ( Los reconoceras con los nombres de los commits 🤓)
+
 # Introducción al Machine Learning 🤓
 
 ¡Bienvenido al fascinante mundo del Machine Learning (ML)! 🎉 Aquí te guiaré a través de los conceptos básicos, principios fundamentales y algunas aplicaciones emocionantes de ML. Aunque el machine learning puede ser complejo, quiero explicártelo de una forma que comprendas y no te enredes 😉, ¡empezaremos desde lo más básico!
