@@ -1,1 +1,121 @@
 Explicar formas de mostrar los datos con matplotlib
+
+1. Aprendizaje Supervisado
+
+# Clasificación
+
+Support Vector Machines (SVM)
+Regresión Logística
+Random Forest
+Gradient Boosting (e.g., XGBoost, LightGBM)
+Ensemble Methods: Bagging y Boosting
+Redes Neuronales Artificiales (ANN)
+naive bayes
+
+# Regresión
+
+
+Regresión Polinómica
+Regresión Ridge y Lasso
+Regresión con Support Vector Machines (SVR)
+regularización de ridge y lasso
+
+
+2. Aprendizaje No Supervisado
+
+Clustering
+- K-Means
+- Hierarchical Clustering
+- DBSCAN
+Reducción de Dimensionalidad
+- Principal Component Analysis (PCA)
+- t-Distributed Stochastic Neighbor Embedding (t-SNE)
+Detección de Anomalías
+
+3. Aprendizaje por Refuerzo
+
+Q-Learning
+Deep Q-Learning
+sarsa
+bellman equation
+n-arm bandit
+Policy Gradient
+Actor-Critic
+
+4. Procesamiento de Lenguaje Natural (NLP)
+
+Tokenización
+Stopwords
+Stemming y Lemmatization
+Bag of Words
+TF-IDF
+Word Embeddings (e.g., Word2Vec, GloVe)
+Modelos de Lenguaje (e.g., BERT, GPT-3)
+
+5. Visión por Computadora
+
+Detección de Objetos
+Segmentación de Imágenes
+Clasificación de Imágenes
+Transfer Learning
+Modelos Pre-entrenados (e.g., VGG, ResNet, Inception)
+
+6. Series Temporales
+
+Análisis de Series Temporales
+Modelos ARIMA
+Modelos SARIMA
+Modelos Exponenciales Suavizados
+Modelos de Redes Neuronales Recurrentes (RNN)
+Modelos de Redes Neuronales Convolucionales (CNN)
+
+7. Aprendizaje Profundo
+
+Redes Neuronales Convolucionales (CNN)
+Redes Neuronales Recurrentes (RNN)
+Redes Neuronales Convolucionales 1D
+Redes Neuronales Generativas Adversariales (GAN)
+Redes Neuronales Siamesas
+
+8. Procesamiento de Imágenes
+
+Transformaciones de Imágenes
+Data Augmentation
+Normalización de Imágenes
+Transfer Learning
+Modelos Pre-entrenados (e.g., VGG, ResNet, Inception)
+
+9. Procesamiento de Texto
+
+Tokenización
+Stopwords
+Stemming y Lemmatization
+Bag of Words
+TF-IDF
+Word Embeddings (e.g., Word2Vec, GloVe)
+Modelos de Lenguaje (e.g., BERT, GPT-3)
+
+10. Procesamiento de Audio
+
+Extracción de Características de Audio
+Transformada de Fourier
+Mel-Frequency Cepstral Coefficients (MFCC)
+Modelos de Redes Neuronales Convolucionales (CNN)
+Modelos de Redes Neuronales Recurrentes (RNN)
+
+11. Procesamiento de Video
+
+Extracción de Fotogramas
+Transformación de Fotogramas
+Modelos de Redes Neuronales Convolucionales (CNN)
+Modelos de Redes Neuronales Recurrentes (RNN)
+Modelos de Redes Neuronales Convolucionales 3D
+
+
+12. Preprocesamiento de Datos
+
+Limpieza de Datos
+Transformación de Datos
+Normalización y Estandarización
+Manejo de Datos Faltantes
+
