@@ -15,7 +15,6 @@ naive bayes
 # Regresión
 
 
-Regresión Polinómica
 Regresión Ridge y Lasso
 Regresión con Support Vector Machines (SVR)
 regularización de ridge y lasso
